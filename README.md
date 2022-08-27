@@ -1,1 +1,1 @@
-Promotional clone email from GNC. Not yet responsive. (under development)
+Responsive Promotional email clone from GNC.
